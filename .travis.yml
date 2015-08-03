@@ -1,2 +1,2 @@
 language: java
-install: ant checkstyle
+install: ant -buildfile OpenLaTeXStudio/ checkstyle
